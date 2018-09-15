@@ -1,0 +1,28 @@
+{
+	"name": "pokec-send-message",
+	"version": "1.0.0",
+	"description": "Simple wrapper class for sending messages to chatrooms on Pokec social network.",
+	"main": "src/index.js",
+	"files": [
+		"src/*.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/oliverfindl/pokec-send-message.git"
+	},
+	"keywords": [
+		"pokec",
+		"web",
+		"api",
+		"wrapper",
+		"send",
+		"message",
+		"pokec-send-message"
+	],
+	"author": "Oliver Findl",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/oliverfindl/pokec-send-message/issues"
+	},
+	"homepage": "https://github.com/oliverfindl/pokec-send-message#readme"
+}
