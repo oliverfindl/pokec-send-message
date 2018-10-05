@@ -33,7 +33,7 @@ const PokecAPI = require("pokec-send-message");
 const pokec = new PokecAPI();
 
 // get list of pokec chatrooms
-pokec.getRooms().then(console.log).catch(console.error)
+pokec.getRooms().then(console.log).catch(console.error);
 
 // login to pokec
 pokec.login(

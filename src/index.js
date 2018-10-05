@@ -1,5 +1,5 @@
 /**
- * pokec-send-message v1.0.0 (2018-09-15)
+ * pokec-send-message v1.0.1 (2018-10-05)
  * Copyright 2018 Oliver Findl
  * @license MIT
  */
@@ -337,6 +337,6 @@ class PokecAPI {
 		return cookies.map(cookie => [cookie.key, cookie.value].join("=")).join(";");
 	}
 
-};
+}
 
 module.exports = PokecAPI;
